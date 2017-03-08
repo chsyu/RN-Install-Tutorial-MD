@@ -6,7 +6,7 @@ MAC的React Native開發環境建立
 
 請連結到React Native的[開發網址](https://facebook.github.io/react-native/docs/getting-started.html)，你會看到上面的畫面。記得要將Mobile OS選在iOS， 將Development OS選在macOS。
 
-![](photos/e474c99136dac1ecdba5b353ef910059.jpeg  | width=100 "")
+![](photos/e474c99136dac1ecdba5b353ef910059.jpeg "")
 
 ![](photos/3e971c04ede4f1fd80f073644a21e2e0.jpeg "")
 
