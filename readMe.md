@@ -44,7 +44,7 @@ MAC的React Native開發環境建立
 
 安裝完，也請你用```react-native --version```指令確定是否安裝完成
 
-![](photos/f9db505c7df5ae4972cb8c685fff77b1.jpeg "")
+![](photos/f9db505c7df5ae4972cb8c685fff77b1.jpeg | width=100)
 
 ### 最後
 作業已經完成，但是，請你確認一下你電腦的Xcode是否是最新版本，以及，請你啟動一下Xcode，因為第一次啟動Xcode的時候，系統還會幫你安裝一些東西，這些東西我們上課的時候會用到
